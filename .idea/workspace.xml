@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46485043-78dc-4786-982b-6eb1138116a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/10_反射/demo1/10_反射.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/10_反射/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/10_反射/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/10_反射/demo4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/10_反射/demo5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/11_管道/11_管道.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/12_变量的使用/add/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/12_变量的使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/12_变量的使用/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/13_常量/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/14_交换两个数的值/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/15_变量的作用域/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/16_数据类型操作/demo1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/17_随机数/demo1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/18_字符串/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/19_switch/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/19_switch/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo1/1_结构体.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo7/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/1_结构体/demo8/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/20_for循环/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/21_goto和label语句/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/21_goto和label语句/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/22_可变参数/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/23_defer/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/23_defer/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/24_new/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/24_new/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/25_append/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/26_panic/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/27_递归函数/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/27_递归函数/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/27_递归函数/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/28_闭包/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/28_闭包/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/29_给包起别名/add/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/29_给包起别名/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/2_连表/2_链表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/30_Init函数/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/30_Init函数/demo1/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/30_Init函数/init/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/30_Init函数/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/30_Init函数/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/31_获取当前的时间/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/32_获取操作系统的变量/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/33_字符串的常见操作/dem2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/33_字符串的常见操作/demo1/demo1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/34_time/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/34_time/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/35_流程控制/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/35_流程控制/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/35_流程控制/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/36_函数参数的传递/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/37_函数可变参数的传递/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/38_defer的使用/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/39_数组/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/3_嵌套/3_嵌套.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/40_切片/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/40_切片/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/40_切片/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/40_切片/demo4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/40_切片/demo5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/40_切片/demo6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/41_排序/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/42_锁/demo1_互斥锁/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/42_锁/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/42_锁/demo3_读写锁/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/43_单元测试/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/43_单元测试/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/44_错误处理/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/44_错误处理/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/4_匿名字段/4_匿名字段.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/5_&amp;和*/5_&amp;和*.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo0/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo1/6_接口的定义.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo2/7_接口的嵌套.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo6/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/6_接口的定义/demo7/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/7_类型断言/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/7_类型断言/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/7_类型断言/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/8_类型转换/8_类型转换.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/9_判断一个变量是否是指定接口/9_判断一个变量是否实现了指定接口.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/test_log/testing2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/testing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OldBoy/testing1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/05_Goexit的使用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/112_字符串的操作.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/113_字符串转换.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/114_正则表达式_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/115_正则表达式_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/116_正则表达式_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/117_通过结构体生成json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/118_通过map生成json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/119_json补充.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/120_json解析到结构体.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/121_json解析到map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/122_文件.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/123_设备文件的使用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/124_文件的读写.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/125_读取文件.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/126_每次读取一行.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/127_创建goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/128_goroutine先推出.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/129_主协程先退出导致子携程没有来得及调用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/130_Gosched的使用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/131_GOMAXPROCS的使用.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/132_多任务资源竞争问题.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/133_通过channel实现同步.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/134_通过channel实现同步和数据交互.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/135_无缓存的channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/136_有缓冲channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/137_关闭channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mygo/testing.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/HostFileEnvionDetails.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/Domain.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/Email.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/File.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/IP.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/URL.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOEs/Vulnerability.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/Interfaces.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/NetworkFileTransferEnvion.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/envion.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/AclId_访问控制列表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/AssertVulnerabilityStatus.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/Assert_资产.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/ConnectToInfo_连接关系.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/DomainDetail_网域详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/Domain_网域.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/assert/PhysicalAssert_物理资产.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/EndEnvion_终端环境及传输信息.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/EnvionAndTransInfoType_环境及传输信息类型.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/Envion_环境传及输信息.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/HttpDownlodaAndTransInfoDetail_Http网络下载及传输详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/MailNetEnvionDetail_邮件网络环境及传输信息详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/NetEnvionAndTransInfoDetail_网络环境及传输信息详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/env/NetEnvion_网络环境及传输信息.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/iep/client_info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/iep/file_basic_info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/iep/loophole_detect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/iep/proc_protect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/iep/virus_defend.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/iep/virus_detect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/intelligences/DomainWhoIs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/tags/TagSource.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/tags/TagsDetail_标签详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/tags/Tags_告警标签.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/EventList_威胁事件列表.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/GenNameMethod_威胁告警名称及产生方法.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/ThreatAlarmInfo_威胁告警详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/ThreatAlarm_告警.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/AlartRelatedInfo_告警相关信息.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/AlartSummary_告警概要.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/RelatedAssert相关资产.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/ThreatAlarmName.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/attacker/Attacker_攻击者.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/evaluate/ThreatEvaluations_威胁量化评分情况.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/HistoricalResponseState_历史响应处置状态.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/HistoricalVulnerabiliyAsserts_历史脆弱性资产情况.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/Historical_Respons_历史响应处置情况.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/Historical_Response_Time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/VulnerabiliyHistoryStatus_脆弱性存在状态_常量.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/ntctf/NtctfDescription_威胁行为描述.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/CommandAndControl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/Event_威胁事件.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/Evidences.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/MalwareScene.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/ThreatAction_威胁行为.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/ThreatSource.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/CommandAndControl_威胁事件利用命令与控制通道.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/DomainCommandAndControl_域名与控制通道.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/EventDetail_威胁事件详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/EventEvidencesSummary_威胁事件证据概述.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/GenerateMethodDetail_产生方法详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/IoC_IoC信标.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/IpCommandAndControlDetail_IP命令与控制通道详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/IpCommandAndControl_IP命令与控制通道.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/PayloadFile_载荷文件.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/PayloadType_载荷类型.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/PayloadUsed_威胁时间利用载荷.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/TimeWatched_时间监控点.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/UrlCommandAndControl_URL命令与控制通道.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/cases/CaseDetali_案例详情.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/cases/CaseLevel_案例等级.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/uselessfile/cases/Cases_相关Case.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/2_log日志/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/3_flag/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/3_flag/demo2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/3_flag/demo3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/4_test_init/demo1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结文件/5_bson/demo1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo" beforeDir="false" afterPath="$PROJECT_DIR$/mygo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/100_方法表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/100_方法表达式.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/34_普通函数的调用流程.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/34_普通函数的调用流程.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/35_函数递归的调用流程.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/35_函数递归的调用流程.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/51_工程管理同级目录/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/51_工程管理同级目录/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/52_工程管理不同目录/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/52_工程管理不同目录/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/54_普通变量做函数参数.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/54_普通变量做函数参数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/62_数组做函数参数.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/62_数组做函数参数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/63_数组指针做函数参数.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/63_数组指针做函数参数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/83_结构体做函数参数.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/83_结构体做函数参数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/84_结构体引用做函数参数传递.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/84_结构体引用做函数参数传递.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/90_结构体指针类型匿名字段.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/90_结构体指针类型匿名字段.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mygo/99_方法值.go" beforeDir="false" afterPath="$PROJECT_DIR$/mygo/99_方法值.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="307141586">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="go" value="76" />
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="76" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="6275" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="6275" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1279786430">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="24928" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="24928" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="329" />
+          <entry key="log" value="1" />
+          <entry key="s" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="329" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="x86 Plan9 Assembly" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger">
+        <counts>
+          <entry key=".append" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo4/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/8_类型转换/8_类型转换.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/7_类型断言/demo1/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/7_类型断言/demo2/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/9_判断一个变量是否是指定接口/9_判断一个变量是否实现了指定接口.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-511" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo3/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo5/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo2/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="yet_unknown" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>details</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../.." />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo5/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/testing1.go" />
+        <option value="$PROJECT_DIR$/OldBoy/40_切片/demo5/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/40_切片/demo6/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/43_单元测试/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/43_单元测试/main_test.go" />
+        <option value="$PROJECT_DIR$/OldBoy/testing.go" />
+        <option value="$PROJECT_DIR$/OldBoy/testing2.go" />
+        <option value="$PROJECT_DIR$/OldBoy/test_log/logs/logcollect.log" />
+        <option value="$PROJECT_DIR$/OldBoy/test_log/testing2.go" />
+        <option value="$PROJECT_DIR$/OldBoy/44_错误处理/demo2/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/44_错误处理/demo1/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/demo2/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/demo1/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/ThreatAlarmInfo_威胁告警详情.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/attacker/Attacker_攻击者.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/EventList_威胁事件列表.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/ThreatAction_威胁行为.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/Event_威胁事件.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/Domain.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/HistoricalVulnerabiliyAsserts_历史脆弱性资产情况.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/history/Historical_Respons_历史响应处置情况.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/CommandAndControl.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/MalwareScene.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/File.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/AlartRelatedInfo_告警相关信息.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/RelatedAssert相关资产.go" />
+        <option value="$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/2_log日志/demo1/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/3_flag/demo2/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/4_test_init/demo1/demo1.go" />
+        <option value="$PROJECT_DIR$/总结文件/4_test_init/demo1/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/3_flag/demo3/main.go" />
+        <option value="$PROJECT_DIR$/总结文件/3_flag/demo1/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/30_Init函数/demo1/test.go" />
+        <option value="$PROJECT_DIR$/OldBoy/30_Init函数/demo1/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/30_Init函数/demo1/test/test.go" />
+        <option value="$PROJECT_DIR$/总结文件/5_bson/demo1/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo6/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/7_类型断言/demo1/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/7_类型断言/demo2/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/7_类型断言/demo3/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo0/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo7/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/10_反射/demo1/10_反射.go" />
+        <option value="$PROJECT_DIR$/OldBoy/10_反射/demo2.go" />
+        <option value="$PROJECT_DIR$/OldBoy/10_反射/demo2/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/10_反射/demo3/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/10_反射/demo4/main.go" />
+        <option value="$PROJECT_DIR$/OldBoy/10_反射/demo5/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="7_类型断言" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="7_类型断言" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="7_类型断言" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="8_类型转换" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="9_判断一个变量是否是指定接口" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="10_反射" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="10_反射" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="10_反射" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="10_反射" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="10_反射" type="462c0819:PsiDirectoryNode" />
+              <item name="demo4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="19_switch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="19_switch" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="19_switch" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="22_可变参数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="OldBoy" type="462c0819:PsiDirectoryNode" />
+              <item name="22_可变参数" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="总结文件" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnGo" type="462c0819:PsiDirectoryNode" />
+              <item name="总结文件" type="462c0819:PsiDirectoryNode" />
+              <item name="5_bson" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OldBoy/10_反射/demo2" />
+      <recent name="$PROJECT_DIR$/OldBoy/10_反射/demo1" />
+      <recent name="$PROJECT_DIR$/OldBoy/6_接口的定义" />
+      <recent name="$PROJECT_DIR$/OldBoy/30_Init函数/demo1/test" />
+      <recent name="$PROJECT_DIR$/OldBoy/test_log" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/总结文件/1_连接mongodb" />
+      <recent name="$PROJECT_DIR$/OldBoy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (5)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OldBoy/10_反射/demo3/main.go" />
+      <package value="LearnGo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo0/main.go" />
+      <package value="LearnGo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OldBoy/6_接口的定义/demo7/main.go" />
+      <package value="LearnGo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OldBoy/10_反射/demo2/main.go" />
+      <package value="LearnGo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LearnGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/OldBoy/10_反射/demo4/main.go" />
+      <package value="LearnGo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go (2)" />
+      <item itemvalue="Go Build.go build main.go (3)" />
+      <item itemvalue="Go Build.go build main.go (4)" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build main.go (5)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (5)" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49638554" visible="true" weight="0.20600858" />
+      <window_info id="Structure" order="1" sideWeight="0.5036145" side_tool="true" weight="0.20314735" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22409639" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32771084" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2911302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2253012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44698796" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32771084" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/21_goto和label语句/demo2/main.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/27_递归函数/demo2/main.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/27_递归函数/demo2/main.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/27_递归函数/demo3/main.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/27_递归函数/demo3/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/33_字符串的常见操作/dem2/main.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/33_字符串的常见操作/dem2/main.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/33_字符串的常见操作/dem2/main.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/33_字符串的常见操作/dem2/main.go</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/34_time/demo1/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo4/main.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/7_类型断言/demo1/main.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/40_切片/demo5/main.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/40_切片/demo5/main.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/test_log/testing2.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/OldBoy/44_错误处理/demo2/main.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mygo/111_recover的使用.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mygo/111_recover的使用.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mygo/111_recover的使用.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/mygo/111_recover的使用.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go</url>
+          <line>54</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file:///usr/local/go/src/runtime/panic.go</url>
+          <line>676</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go</url>
+          <line>140</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go</url>
+          <line>151</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go</url>
+          <line>161</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/总结文件/3_flag/demo2/main.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/threat_event/MalwareScene.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/IOAs/File.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/ThreatAlarmInfo_威胁告警详情.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/AlartRelatedInfo_告警相关信息.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/threat/alarm/RelatedAssert相关资产.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/libs/go/data_models/IOCs/Interfaces.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../gopkg.in/mgo.v2/session.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1613" selection-start-line="1613" selection-end-line="1613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="689" selection-start-line="689" selection-end-line="689" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../go.uber.org/zap/logger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/2_log日志/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="208" selection-start-line="208" selection-end-line="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/4_test_init/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/3_flag/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/3_flag/demo3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/3_flag/demo2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="53" column="16" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/30_Init函数/init/init.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/30_Init函数/test/test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/30_Init函数/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3154">
+          <caret line="180" column="28" selection-start-line="177" selection-start-column="8" selection-end-line="180" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/78_结构体普通变量初始化.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/79_结构体指针变量的初始化.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/1_连接mongodb/demo2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/30_Init函数/demo1/test/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/24_new/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/30_Init函数/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#14#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/120_json解析到结构体.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/总结文件/5_bson/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/121_json解析到map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/40_切片/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/40_切片/demo2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/117_通过结构体生成json.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/133_通过channel实现同步.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mygo/134_通过channel实现同步和数据交互.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo6/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/22_可变参数/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/19_switch/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/19_switch/demo2/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo0/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/6_接口的定义/demo7/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-start-column="2" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/2_连表/2_链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/7_类型断言/demo3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo1/10_反射.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo4/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/9_判断一个变量是否是指定接口/9_判断一个变量是否实现了指定接口.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/7_类型断言/demo2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/8_类型转换/8_类型转换.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/7_类型断言/demo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldBoy/10_反射/demo5/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

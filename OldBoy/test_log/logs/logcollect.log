@@ -1,0 +1,8 @@
+
+2019/05/08 20:03:38.547 [W] [log.go:614]  this is a warn,my name is stu03
+2019/05/08 20:04:02.107 [W] [log.go:614]  this is a warn,my name is stu03
+2019/05/08 20:04:06.806 [W] [log.go:614]  this is a warn,my name is stu03
+2019/05/08 20:04:08.780 [W] [log.go:614]  this is a warn,my name is stu03
+2019/05/08 20:04:22.113 [D] [log.go:634]  this is a test,my name is stu01
+2019/05/08 20:04:22.113 [D] [log.go:640]  this is a trace,my name is stu02
+2019/05/08 20:04:22.113 [W] [log.go:614]  this is a warn,my name is stu03
